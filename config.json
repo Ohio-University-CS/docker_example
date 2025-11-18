@@ -1,0 +1,5 @@
+{
+    "db_host": "localhost",
+    "mode": "development",
+    "timeout": 30
+}
